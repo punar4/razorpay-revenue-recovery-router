@@ -1,0 +1,51 @@
+txn_id,bank,error_code,error_desc,amount_inr,merchant_id
+pay_live_test_1000,HDFC,BANK_SERVER_DOWN,Issuer Core Banking System (CBS) unresponsive via NPCI switch (HTTP 504),1850.0,merch_1
+pay_live_test_1001,SBI,OTP_TIMEOUT,Customer session expired. Two-factor authentication OTP not submitted within 180s,455.0,merch_2
+pay_live_test_1002,ICICI,INSUFFICIENT_FUNDS,Transaction declined by issuer: account balance lower than debit amount,9270.0,merch_3
+pay_live_test_1003,AXIS,UPI_LIMIT_EXCEEDED,"Daily cumulative UPI transaction threshold of INR 100,000 reached for VPA",34105.0,merch_4
+pay_live_test_1004,KOTAK,CARD_SECURITY_BLOCKED,Card transaction blocked due to international usage flag disabled by cardholder,6640.0,merch_5
+pay_live_test_1005,HDFC,BANK_SERVER_DOWN,Issuer Core Banking System (CBS) unresponsive via NPCI switch (HTTP 504),2025.0,merch_1
+pay_live_test_1006,SBI,OTP_TIMEOUT,Customer session expired. Two-factor authentication OTP not submitted within 180s,630.0,merch_2
+pay_live_test_1007,ICICI,INSUFFICIENT_FUNDS,Transaction declined by issuer: account balance lower than debit amount,9445.0,merch_3
+pay_live_test_1008,AXIS,UPI_LIMIT_EXCEEDED,"Daily cumulative UPI transaction threshold of INR 100,000 reached for VPA",34280.0,merch_4
+pay_live_test_1009,KOTAK,CARD_SECURITY_BLOCKED,Card transaction blocked due to international usage flag disabled by cardholder,6815.0,merch_5
+pay_live_test_1010,HDFC,BANK_SERVER_DOWN,Issuer Core Banking System (CBS) unresponsive via NPCI switch (HTTP 504),2200.0,merch_1
+pay_live_test_1011,SBI,OTP_TIMEOUT,Customer session expired. Two-factor authentication OTP not submitted within 180s,805.0,merch_2
+pay_live_test_1012,ICICI,INSUFFICIENT_FUNDS,Transaction declined by issuer: account balance lower than debit amount,9620.0,merch_3
+pay_live_test_1013,AXIS,UPI_LIMIT_EXCEEDED,"Daily cumulative UPI transaction threshold of INR 100,000 reached for VPA",34455.0,merch_4
+pay_live_test_1014,KOTAK,CARD_SECURITY_BLOCKED,Card transaction blocked due to international usage flag disabled by cardholder,6990.0,merch_5
+pay_live_test_1015,HDFC,BANK_SERVER_DOWN,Issuer Core Banking System (CBS) unresponsive via NPCI switch (HTTP 504),2375.0,merch_1
+pay_live_test_1016,SBI,OTP_TIMEOUT,Customer session expired. Two-factor authentication OTP not submitted within 180s,980.0,merch_2
+pay_live_test_1017,ICICI,INSUFFICIENT_FUNDS,Transaction declined by issuer: account balance lower than debit amount,9795.0,merch_3
+pay_live_test_1018,AXIS,UPI_LIMIT_EXCEEDED,"Daily cumulative UPI transaction threshold of INR 100,000 reached for VPA",34630.0,merch_4
+pay_live_test_1019,KOTAK,CARD_SECURITY_BLOCKED,Card transaction blocked due to international usage flag disabled by cardholder,7165.0,merch_5
+pay_live_test_1020,HDFC,BANK_SERVER_DOWN,Issuer Core Banking System (CBS) unresponsive via NPCI switch (HTTP 504),2550.0,merch_1
+pay_live_test_1021,SBI,OTP_TIMEOUT,Customer session expired. Two-factor authentication OTP not submitted within 180s,1155.0,merch_2
+pay_live_test_1022,ICICI,INSUFFICIENT_FUNDS,Transaction declined by issuer: account balance lower than debit amount,9970.0,merch_3
+pay_live_test_1023,AXIS,UPI_LIMIT_EXCEEDED,"Daily cumulative UPI transaction threshold of INR 100,000 reached for VPA",34805.0,merch_4
+pay_live_test_1024,KOTAK,CARD_SECURITY_BLOCKED,Card transaction blocked due to international usage flag disabled by cardholder,7340.0,merch_5
+pay_live_test_1025,HDFC,BANK_SERVER_DOWN,Issuer Core Banking System (CBS) unresponsive via NPCI switch (HTTP 504),2725.0,merch_1
+pay_live_test_1026,SBI,OTP_TIMEOUT,Customer session expired. Two-factor authentication OTP not submitted within 180s,1330.0,merch_2
+pay_live_test_1027,ICICI,INSUFFICIENT_FUNDS,Transaction declined by issuer: account balance lower than debit amount,10145.0,merch_3
+pay_live_test_1028,AXIS,UPI_LIMIT_EXCEEDED,"Daily cumulative UPI transaction threshold of INR 100,000 reached for VPA",34980.0,merch_4
+pay_live_test_1029,KOTAK,CARD_SECURITY_BLOCKED,Card transaction blocked due to international usage flag disabled by cardholder,7515.0,merch_5
+pay_live_test_1030,HDFC,BANK_SERVER_DOWN,Issuer Core Banking System (CBS) unresponsive via NPCI switch (HTTP 504),2900.0,merch_1
+pay_live_test_1031,SBI,OTP_TIMEOUT,Customer session expired. Two-factor authentication OTP not submitted within 180s,1505.0,merch_2
+pay_live_test_1032,ICICI,INSUFFICIENT_FUNDS,Transaction declined by issuer: account balance lower than debit amount,10320.0,merch_3
+pay_live_test_1033,AXIS,UPI_LIMIT_EXCEEDED,"Daily cumulative UPI transaction threshold of INR 100,000 reached for VPA",35155.0,merch_4
+pay_live_test_1034,KOTAK,CARD_SECURITY_BLOCKED,Card transaction blocked due to international usage flag disabled by cardholder,7690.0,merch_5
+pay_live_test_1035,HDFC,BANK_SERVER_DOWN,Issuer Core Banking System (CBS) unresponsive via NPCI switch (HTTP 504),3075.0,merch_1
+pay_live_test_1036,SBI,OTP_TIMEOUT,Customer session expired. Two-factor authentication OTP not submitted within 180s,1680.0,merch_2
+pay_live_test_1037,ICICI,INSUFFICIENT_FUNDS,Transaction declined by issuer: account balance lower than debit amount,10495.0,merch_3
+pay_live_test_1038,AXIS,UPI_LIMIT_EXCEEDED,"Daily cumulative UPI transaction threshold of INR 100,000 reached for VPA",35330.0,merch_4
+pay_live_test_1039,KOTAK,CARD_SECURITY_BLOCKED,Card transaction blocked due to international usage flag disabled by cardholder,7865.0,merch_5
+pay_live_test_1040,HDFC,BANK_SERVER_DOWN,Issuer Core Banking System (CBS) unresponsive via NPCI switch (HTTP 504),3250.0,merch_1
+pay_live_test_1041,SBI,OTP_TIMEOUT,Customer session expired. Two-factor authentication OTP not submitted within 180s,1855.0,merch_2
+pay_live_test_1042,ICICI,INSUFFICIENT_FUNDS,Transaction declined by issuer: account balance lower than debit amount,10670.0,merch_3
+pay_live_test_1043,AXIS,UPI_LIMIT_EXCEEDED,"Daily cumulative UPI transaction threshold of INR 100,000 reached for VPA",35505.0,merch_4
+pay_live_test_1044,KOTAK,CARD_SECURITY_BLOCKED,Card transaction blocked due to international usage flag disabled by cardholder,8040.0,merch_5
+pay_live_test_1045,HDFC,BANK_SERVER_DOWN,Issuer Core Banking System (CBS) unresponsive via NPCI switch (HTTP 504),3425.0,merch_1
+pay_live_test_1046,SBI,OTP_TIMEOUT,Customer session expired. Two-factor authentication OTP not submitted within 180s,2030.0,merch_2
+pay_live_test_1047,ICICI,INSUFFICIENT_FUNDS,Transaction declined by issuer: account balance lower than debit amount,10845.0,merch_3
+pay_live_test_1048,AXIS,UPI_LIMIT_EXCEEDED,"Daily cumulative UPI transaction threshold of INR 100,000 reached for VPA",35680.0,merch_4
+pay_live_test_1049,KOTAK,CARD_SECURITY_BLOCKED,Card transaction blocked due to international usage flag disabled by cardholder,8215.0,merch_5
