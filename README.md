@@ -5,7 +5,7 @@
 
 ---
 
-## ⚡ System Architecture
+## System Architecture
 
 1. **Tier-1 Deterministic Fast-Path (0ms Latency, Zero Token Cost)**:
    - Evaluates terminal error codes (e.g., `INSUFFICIENT_FUNDS`, known velocity caps) instantly without external LLM calls.
@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Setup & Local Execution
+## Setup & Local Execution
 
 ### 1. Clone & Setup Virtual Environment
 ```bash
