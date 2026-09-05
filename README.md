@@ -22,8 +22,8 @@
 
 ### 1. Clone & Setup Virtual Environment
 ```bash
-git clone [https://github.com/YOUR_USERNAME/razorpay-revenue-recovery-router.git](https://github.com/YOUR_USERNAME/razorpay-revenue-recovery-router.git)
+git clone https://github.com/punar4/razorpay-revenue-recovery-router.git
 cd razorpay-revenue-recovery-router
 python -m venv venv
-source venv/bin/activate  # On Windows: .\venv\Scripts\Activate.ps1
-pip install streamlit pandas pydantic google-genai python-dotenv
+.\venv\Scripts\Activate.ps1
+pip install -r requirements.txt
