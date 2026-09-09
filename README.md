@@ -12,7 +12,7 @@
 
 ##  Problem Space & The Recovery Gap
 
-In high-concurrency digital payment ecosystems across **UPI, IMPS, and domestic card acquiring networks in India**, payment infrastructure can degrade non-linearly under peak volume.
+In high-concurrency digital payment ecosystems across **UPI, IMPS, and domestic card acquiring networks in India**, payment infrastructure can become less reliable under peak transaction volume.
 
 Core Banking Systems (CBS) may experience intermittent timeouts, network switches can throttle connections, and PSPs can emit unmapped internal error strings.
 
