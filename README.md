@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Executive Summary & Problem Space
+##  Executive Summary & Problem Space
 
 In high-concurrency digital payment ecosystems—specifically across Unified Payments Interface (UPI), IMPS, and domestic Card acquiring networks in India—payment infrastructure frequently degrades during traffic spikes. Core Banking Systems (CBS) experience intermittent timeouts, network switches throttle connections, and PSPs emit unmapped internal error strings.
 
@@ -26,7 +26,7 @@ When transactions fail, modern checkout flows default to one of two broken extre
    (15% to 28% Addressable Loss)                  Spikes Duplicate Debit Hazards
 
 
-┌──────────────────────────────────────────────┐
+                  ┌──────────────────────────────────────────────┐
                   │    Incoming Payment Telemetry Stream         │
                   │  (Raw ISO-8583 Codes / Core Banking Dumps)   │
                   └───────────────────────┬──────────────────────┘
