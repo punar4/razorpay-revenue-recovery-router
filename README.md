@@ -7,7 +7,6 @@
 [![Gemini 2.5 Flash](https://img.shields.io/badge/Model-Gemini%202.5%20Flash-4E75F6.svg?logo=google\&logoColor=white)](https://ai.google.dev/)
 [![Pydantic v2](https://img.shields.io/badge/Validation-Pydantic%20v2-E92063.svg?logo=pydantic\&logoColor=white)](https://docs.pydantic.dev/)
 [![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B.svg?logo=streamlit\&logoColor=white)](https://streamlit.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
